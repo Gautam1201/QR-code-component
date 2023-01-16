@@ -47,9 +47,9 @@ This is the solution for "QR-code card component" built using HTML and CSS.
 
   
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://github.com/Gautam1201/QR-code-component)
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [QR Card Component](https://qr-code-card-comp.netlify.app/)
 
   
 
