@@ -40,7 +40,8 @@ This is the solution for "QR-code card component" built using HTML and CSS.
 ![Desktop-Screenshot](./images/Desktop-Screenshot.jpg)
   
   - Mobile
-  ![Mobile ScreenShot](./images/Mobile-Screenshot.jpg)
+  
+ ![Mobile ScreenShot](./images/Mobile-Screenshot.jpg)
 
 ### Links
 
