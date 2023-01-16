@@ -37,11 +37,11 @@ This is the solution for "QR-code card component" built using HTML and CSS.
 
 - Desktop
 
-![Desktop-Screenshot](./images/Desktop-Screenshot.jpg)
+<center>![Desktop-Screenshot](./images/Desktop-Screenshot.jpg)</center>
   
   - Mobile
   
- ![Mobile ScreenShot](./images/Mobile-Screenshot.jpg)
+ <center>![Mobile ScreenShot](./images/Mobile-Screenshot.jpg)</center>
 
 ### Links
 
