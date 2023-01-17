@@ -6,10 +6,17 @@
     box-sizing: border-box;
 }
 
+:root{
+    --darkBlue: hsl(218, 44%, 22%);
+    --bodybackground: hsl(0, 0%, 100%);
+    --grayishBlue: hsl(220, 15%, 55%);
+    --lightGray: hsl(212, 45%, 89%);
+}
+
 body{
     width: 100vw;
     height: 100vh;
-    background-color: hsl(212, 45%, 89%);
+    background-color: var(--lightGray);
     font-size: 15px;
     font-family: 'Outfit', sans-serif;
     display: flex;
@@ -24,7 +31,7 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: hsl(0, 0%, 100%);
+    background-color: var(--bodybackground);
     border-radius: 10px;
     text-align: center;
 }
@@ -52,9 +59,18 @@ body{
 .title{
     font-weight: 700;
     font-size: 1.35rem;
-    color: hsl(218, 44%, 22%);
+    color: var(--darkBlue);
 }
 
 .process{
-    color: hsl(220, 15%, 55%);
+    color: var(--grayishBlue);
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+    padding-top: 2rem;
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
 }
