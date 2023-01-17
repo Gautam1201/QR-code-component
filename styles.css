@@ -25,6 +25,10 @@ body{
     align-items: center;
 }
 
+.access-heading{
+    display: none;
+}
+
 .card-component{
     display: flex;
     max-width: 330px;
